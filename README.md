@@ -13,4 +13,10 @@ Pratham Oza & Devaansh Gupta
 8. Multiple users should be able to use the database at the same time
 
 ## How to use:
+- Step 1: Go through the documentation for the detailed problem statement & solution provided.
+- Step 2: View ER-Diagram for the design layout of SQL file.
+- Step 3: View Relational Schema (Schema_Design.png)
+- Step 4: Download Laundry_Management(1).sql on your desktop. Open MySQL server and upload the same.
+
+### Have Fun!
 
